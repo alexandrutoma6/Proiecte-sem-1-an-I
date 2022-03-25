@@ -1,0 +1,7 @@
+C:\Users\Toma Alexandru\source\repos\EXAMEN-FP\EXAMEN FP\EXAMEN FP\bin\Debug\EXAMEN FP.exe.config
+C:\Users\Toma Alexandru\source\repos\EXAMEN-FP\EXAMEN FP\EXAMEN FP\bin\Debug\EXAMEN FP.exe
+C:\Users\Toma Alexandru\source\repos\EXAMEN-FP\EXAMEN FP\EXAMEN FP\bin\Debug\EXAMEN FP.pdb
+C:\Users\Toma Alexandru\source\repos\EXAMEN-FP\EXAMEN FP\EXAMEN FP\obj\Debug\EXAMEN FP.csproj.AssemblyReference.cache
+C:\Users\Toma Alexandru\source\repos\EXAMEN-FP\EXAMEN FP\EXAMEN FP\obj\Debug\EXAMEN FP.csproj.CoreCompileInputs.cache
+C:\Users\Toma Alexandru\source\repos\EXAMEN-FP\EXAMEN FP\EXAMEN FP\obj\Debug\EXAMEN FP.exe
+C:\Users\Toma Alexandru\source\repos\EXAMEN-FP\EXAMEN FP\EXAMEN FP\obj\Debug\EXAMEN FP.pdb

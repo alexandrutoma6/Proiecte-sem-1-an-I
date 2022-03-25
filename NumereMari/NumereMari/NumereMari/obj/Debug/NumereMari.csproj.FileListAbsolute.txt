@@ -1,0 +1,7 @@
+C:\Users\Toma Alexandru\source\repos\NumereMari\NumereMari\NumereMari\bin\Debug\NumereMari.exe.config
+C:\Users\Toma Alexandru\source\repos\NumereMari\NumereMari\NumereMari\bin\Debug\NumereMari.exe
+C:\Users\Toma Alexandru\source\repos\NumereMari\NumereMari\NumereMari\bin\Debug\NumereMari.pdb
+C:\Users\Toma Alexandru\source\repos\NumereMari\NumereMari\NumereMari\obj\Debug\NumereMari.csproj.AssemblyReference.cache
+C:\Users\Toma Alexandru\source\repos\NumereMari\NumereMari\NumereMari\obj\Debug\NumereMari.csproj.CoreCompileInputs.cache
+C:\Users\Toma Alexandru\source\repos\NumereMari\NumereMari\NumereMari\obj\Debug\NumereMari.exe
+C:\Users\Toma Alexandru\source\repos\NumereMari\NumereMari\NumereMari\obj\Debug\NumereMari.pdb

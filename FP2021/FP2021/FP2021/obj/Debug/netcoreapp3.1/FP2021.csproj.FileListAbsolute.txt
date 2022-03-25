@@ -1,0 +1,14 @@
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.csproj.AssemblyReference.cache
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.AssemblyInfoInputs.cache
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.AssemblyInfo.cs
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.csproj.CoreCompileInputs.cache
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\bin\Debug\netcoreapp3.1\FP2021.exe
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\bin\Debug\netcoreapp3.1\FP2021.deps.json
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\bin\Debug\netcoreapp3.1\FP2021.runtimeconfig.json
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\bin\Debug\netcoreapp3.1\FP2021.runtimeconfig.dev.json
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\bin\Debug\netcoreapp3.1\FP2021.dll
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\bin\Debug\netcoreapp3.1\FP2021.pdb
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.dll
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.pdb
+C:\Users\Toma Alexandru\source\repos\FP2021\FP2021\FP2021\obj\Debug\netcoreapp3.1\FP2021.genruntimeconfig.cache

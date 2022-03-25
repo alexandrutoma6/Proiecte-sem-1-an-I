@@ -1,0 +1,3 @@
+﻿  c++ tests.cpp
+C:\Users\Toma Alexandru\source\repos\c++ tests\c++ tests\c++ tests.cpp(14,6): warning C4101: 'e': unreferenced local variable
+  c++ tests.vcxproj -> C:\Users\Toma Alexandru\source\repos\c++ tests\Debug\c++ tests.exe

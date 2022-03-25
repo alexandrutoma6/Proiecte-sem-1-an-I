@@ -1,0 +1,7 @@
+C:\Users\Toma Alexandru\source\repos\Probleme-FP-Dna.Balog\Probleme FP\Probleme FP\obj\Debug\Probleme FP.csproj.AssemblyReference.cache
+C:\Users\Toma Alexandru\source\repos\Probleme-FP-Dna.Balog\Probleme FP\Probleme FP\obj\Debug\Probleme FP.csproj.CoreCompileInputs.cache
+C:\Users\Toma Alexandru\source\repos\Probleme-FP-Dna.Balog\Probleme FP\Probleme FP\bin\Debug\Probleme FP.exe.config
+C:\Users\Toma Alexandru\source\repos\Probleme-FP-Dna.Balog\Probleme FP\Probleme FP\bin\Debug\Probleme FP.exe
+C:\Users\Toma Alexandru\source\repos\Probleme-FP-Dna.Balog\Probleme FP\Probleme FP\bin\Debug\Probleme FP.pdb
+C:\Users\Toma Alexandru\source\repos\Probleme-FP-Dna.Balog\Probleme FP\Probleme FP\obj\Debug\Probleme FP.exe
+C:\Users\Toma Alexandru\source\repos\Probleme-FP-Dna.Balog\Probleme FP\Probleme FP\obj\Debug\Probleme FP.pdb
