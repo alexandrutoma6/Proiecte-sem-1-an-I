@@ -1,0 +1,7 @@
+C:\Users\Toma Alexandru\source\repos\PROBLEME-SET1\SET 1\SET 1\bin\Debug\SET 1.exe.config
+C:\Users\Toma Alexandru\source\repos\PROBLEME-SET1\SET 1\SET 1\bin\Debug\SET 1.exe
+C:\Users\Toma Alexandru\source\repos\PROBLEME-SET1\SET 1\SET 1\bin\Debug\SET 1.pdb
+C:\Users\Toma Alexandru\source\repos\PROBLEME-SET1\SET 1\SET 1\obj\Debug\SET 1.csproj.AssemblyReference.cache
+C:\Users\Toma Alexandru\source\repos\PROBLEME-SET1\SET 1\SET 1\obj\Debug\SET 1.csproj.CoreCompileInputs.cache
+C:\Users\Toma Alexandru\source\repos\PROBLEME-SET1\SET 1\SET 1\obj\Debug\SET 1.exe
+C:\Users\Toma Alexandru\source\repos\PROBLEME-SET1\SET 1\SET 1\obj\Debug\SET 1.pdb
